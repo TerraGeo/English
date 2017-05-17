@@ -139,3 +139,5 @@ obsolete == archaic
 
 render == formal to cause someone or something to be in a particular state:
 [ + adj ] His rudeness rendered me speechless.
+
+whiny == complaining, the baby is whiny because he missed his nap
