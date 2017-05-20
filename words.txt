@@ -31,6 +31,7 @@ ablaze == burning
 desintifgrating == fall apart
 derivable == received or obtained from a source of origin
 immense == extemele large
+unpretentious == modest
 lure == to attractive
 mend == to reapair
 deem == consider
