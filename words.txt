@@ -193,3 +193,20 @@ immense == vast, tramendous
 traverse == movement
 pervasive == universal, integral
 derogatory == humiliative, with disrespectful attitude
+enormous == huge, vast
+consecrated == sacred
+deception == the action of tricking someone
+deniability == the ability to deny something
+invoke == cite for an action
+eviscerated == disembowel
+shrill == (of voice and sound) high-pitched and piercing
+misogyny == dislike of the women
+inane == silly, stupid
+gentrify == renovate or improve (especially a house)
+treacherous == guilty of or involving betrayal or deception
+tedious == tiresome or monotonous, slow, dull, too long
+astute == (adjective) ability to turn someone or something to one's advantage (an astute businessman)
+interpolation == insertion, interjection
+downtrodden == oppressed of tread badly by people in power
+belligerent == hostile and aggressive
+pestilence == a fatal epidemic disease
